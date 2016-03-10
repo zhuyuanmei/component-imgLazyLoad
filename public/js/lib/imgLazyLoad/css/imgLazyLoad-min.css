@@ -1,0 +1,4 @@
+@charset "utf-8";
+h2{font-size:16px;font-weight:bold;}
+.lazyload p{line-height:22px;font-size:14px;}
+.ui-imglazyload{width:100px;height:100px;border:1px solid #ccc;}
